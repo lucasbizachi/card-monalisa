@@ -1,10 +1,18 @@
 <h1>Card-monalisa</h1>
+
+<p>
+   <img src="https://img.shields.io/github/license/lucasbizachi/card-monalisa?style=plastic"/>&#160;&#160;
+   <img src="https://img.shields.io/github/repo-size/lucasbizachi/card-monalisa?style=plastic"/>&#160;&#160;
+   <img src="https://img.shields.io/github/languages/count/lucasbizachi/card-monalisa?style=plastic"/>&#160;&#160;
+   <img src="https://img.shields.io/github/languages/top/lucasbizachi/card-monalisa?style=plastic"/>&#160;&#160;
+</p>
+
 <h3>Descrição do projeto</h3>
 <p>É um cartão interativo com o tema da pintura Mona Lisa de Leonardo da Vinci. O cartão possui algumas informações como descrição da obra com um link para obter mais informações. Possui um menu lateral que aparece quando passamos a seta do mouse por cima. Nesse menu lateral existem ícones como localização, ticket e outras informações.</p>
 
 <p>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=%20Finalizado&color=GREEN&style=for-the-badge"/>
-  <p/>
+<p/>
 
 <h3>Funcionalidades:</h3>
 <p>É um cartão com funcionalidades de informar sobre autor e obra, compra de tickets e localização da obra. É um exemplo apenas de como podemos integrar as tecnologias CSS dentro de um projeto.</p>
