@@ -26,3 +26,8 @@
 
 <h3>Conclusão:</h3>
 <p>É um projeto onde os itens e textos são construídos, editados e posicionados dentro de um cartão com animações e interações.</p>
+
+- [Acesse o projeto finalizado, online](https://lucasbizachi.github.io/card-monalisa/)
+
+
+
